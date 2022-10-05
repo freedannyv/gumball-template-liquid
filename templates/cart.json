@@ -4,15 +4,11 @@
       "type": "custom-liquid",
       "disabled": true,
       "settings": {
-        "bg_color": "#31AF46",
-        "text_color": "#fff",
-        "scallop_border_top": true,
-        "scallop_border_bottom": true,
-        "position": 0,
-        "title": "Our Social Lookbook",
-        "text_border": true,
-        "caption": "Get Featured",
-        "button_label": "Load more"
+      }
+    },
+    "2495879d-f08a-428e-aebf-43f360108e71": {
+      "type": "cart-free-shipping-banner",
+      "settings": {
       }
     },
     "cart-items": {
@@ -139,6 +135,7 @@
   },
   "order": [
     "1660766384e0ab106a",
+    "2495879d-f08a-428e-aebf-43f360108e71",
     "cart-items",
     "cart-footer",
     "1660767273792f1785",
