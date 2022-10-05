@@ -82,7 +82,7 @@
       "type": "apps",
       "blocks": {
         "84b9b1fb-233b-49b1-93a6-ec155d8b4f27": {
-          "type": "shopify:\/\/apps\/personalized-recommendations\/blocks\/wiser_recent\/3f966edc-9a4a-465c-a4df-436d2a39160d",
+          "type": "shopify:\/\/apps\/wiser-upsell-recommendations\/blocks\/wiser_recent\/3f966edc-9a4a-465c-a4df-436d2a39160d",
           "settings": {
           }
         }
