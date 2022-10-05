@@ -74,44 +74,27 @@
     "166075891041478f50": {
       "type": "image-with-text",
       "blocks": {
-        "2de9632f-49e7-4feb-a441-483eee9644e9": {
-          "type": "caption",
-          "settings": {
-            "caption": "FEATURED COLLECTION",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        },
-        "1660758909ce8ec6e8-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "FART STUFF!",
-            "heading_size": "h1",
-            "stroke": false
-          }
-        },
         "1660758909ce8ec6e8-1": {
           "type": "text",
           "settings": {
-            "text": "<p>SBD's, squeakers, quackers, rumblers, long ones, short ones, surprise ones, suppressed ones... whatever you call them, we've got you covered.<\/p>",
+            "text": "<p>We want to make selling our product as easy as possible for you, so we’ve made you a handy dandy Retailer Toolkit.<\/p>",
             "text_style": "body"
           }
         },
         "1660758909ce8ec6e8-2": {
           "type": "button",
           "settings": {
-            "button_label": "SHOP NOW",
-            "button_link": "shopify:\/\/collections\/butt-stuff"
+            "button_label": "RETAILER TOOLKIT",
+            "button_link": "shopify:\/\/pages\/customer-resources"
           }
         }
       },
       "block_order": [
-        "2de9632f-49e7-4feb-a441-483eee9644e9",
-        "1660758909ce8ec6e8-0",
         "1660758909ce8ec6e8-1",
         "1660758909ce8ec6e8-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Website_Infographic-Retailer_Toolkit.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -128,12 +111,12 @@
         "1660758802f35cbbdf-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/desktop-full-copy-100.gif",
+            "image": "shopify:\/\/shop_images\/holigay_8c4e4a13-073a-4815-99a3-85476973cb1f.gif",
             "heading": "",
             "heading_size": "medium",
             "subheading": "",
             "button_label": "CLICK",
-            "link": "shopify:\/\/collections\/knee-socks",
+            "link": "shopify:\/\/collections\/holigay-gifts",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": true,
