@@ -51,11 +51,11 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
-          "logo": "shopify:\/\/shop_images\/logo_94a9f367-0bb0-45bc-aa5d-9f12b71c34c1.png",
-          "logo_width": 180,
+          "logo": "shopify:\/\/shop_images\/gumball-logo_200x_70374bad-c850-4b09-a0c4-f2768f0c97c4.png",
+          "logo_width": 130,
           "logo_position": "middle-left",
           "header_image_width": 80,
-          "menu": "new-menu-2020",
+          "menu": "",
           "show_line_separator": true,
           "enable_sticky_header": true
         }
@@ -74,20 +74,19 @@
             "type": "link_list",
             "settings": {
               "heading": "#",
-              "menu": "footer-1"
+              "menu": ""
             }
           },
           "dc171b50-f4d6-4dd9-bfc5-76d8f6b762f6": {
             "type": "link_list",
             "settings": {
               "heading": "#",
-              "menu": "footer-2"
+              "menu": ""
             }
           },
           "cf0bf0ce-6846-4a53-8023-b65005ce48d0": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/logo_94a9f367-0bb0-45bc-aa5d-9f12b71c34c1.png",
               "image_width": 100,
               "alignment": ""
             }
