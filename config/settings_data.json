@@ -65,6 +65,7 @@
         "blocks": {
           "ad073c21-dc5e-48ec-9422-83b586f01b18": {
             "type": "text",
+            "disabled": true,
             "settings": {
               "heading": "GET 10% OFF YOUR FIRST ORDER",
               "subtext": "<p>Subscribe to our email list to stay in the loop on all our latest styles, plus get a 10% off coupon code today!<\/p>"
@@ -72,6 +73,7 @@
           },
           "footer-0": {
             "type": "link_list",
+            "disabled": true,
             "settings": {
               "heading": "#",
               "menu": ""
@@ -79,6 +81,7 @@
           },
           "dc171b50-f4d6-4dd9-bfc5-76d8f6b762f6": {
             "type": "link_list",
+            "disabled": true,
             "settings": {
               "heading": "#",
               "menu": ""
@@ -86,6 +89,7 @@
           },
           "cf0bf0ce-6846-4a53-8023-b65005ce48d0": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "image_width": 100,
               "alignment": ""
